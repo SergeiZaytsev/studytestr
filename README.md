@@ -1,2 +1,2 @@
 # studytestr
-some content
+added new
